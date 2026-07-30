@@ -1,0 +1,8 @@
+-- vim.pack.add({
+--     { src = "https://github.com/saghen/blink.lib" },
+--     { src = "https://github.com/Saghen/blink.cmp" },
+-- })
+--
+-- local cmp = require('blink.cmp')
+-- cmp.build():wait(60000)
+-- cmp.setup()
